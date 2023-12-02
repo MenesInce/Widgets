@@ -1,6 +1,6 @@
 # Widgets
 
-![Widgets](https://github.com/MenesInce/Widgets/assets/147714260/4ef28404-d65a-45ed-96e6-479355819c0a)
+![zyro-image](https://github.com/MenesInce/Widgets/assets/147714260/074b59be-7cb1-4cf0-867d-bb78853dc4dc)
 
 # Scroll
 
